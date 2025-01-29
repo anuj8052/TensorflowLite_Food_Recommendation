@@ -1,6 +1,10 @@
 # TensorflowLite_Food_Recommendation
 Personalized Food Recommendation System (On-Device ML). Add Recommendations to your app with TensorFlow Lite and Firebase
 
+- Tech: TensorFlow Lite, Firebase, Python
+- What it does: Recommends food items based on real-time user preferences, dietary restrictions, and past ratings.
+- Why it's impressive: Shows recommendation algorithms, on-device ML efficiency, and Firebase integration
+
 # TensorflowLite_Food_Recommendation
 
 Add personalized food recommendations to your app using TensorFlow Lite and Firebase. This project leverages machine learning to provide tailored food suggestions based on user preferences and ratings. The dataset includes detailed information about various food items and user ratings, which are used to train and evaluate the recommendation model.
