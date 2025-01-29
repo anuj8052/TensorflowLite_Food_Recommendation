@@ -1,5 +1,5 @@
 # TensorflowLite_Food_Recommendation
-Add Recommendations to your app with TensorFlow Lite and Firebase
+Personalized Food Recommendation System (On-Device ML). Add Recommendations to your app with TensorFlow Lite and Firebase
 
 # TensorflowLite_Food_Recommendation
 
